@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YNWA-Algo
 - 👀 I’m interested in Data Science, Statistics, Machine Learning, New Technologies - especially DeFi, Digital Health and Sustainability
 - 🌱 I’m currently learning how to leverage Databricks (with Apache Spark) for end to end data services 
-- 💞️ I’m looking to collaborate on projects that explore how design impacts health. longevity, decentralized finance. I am also building a propriety tool to evaluate/assess data/ai products for GDPR compliance and inclusion.
+- 💞️ I’m looking to collaborate on projects that explore how design impacts health, longevity, decentralized finance. I am also building a propriety tool to evaluate/assess data/ai products for GDPR compliance and inclusion.
 - 📫 How to reach me : isaiah410@gmail.com
 
 <!---
